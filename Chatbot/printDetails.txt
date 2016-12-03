@@ -1,0 +1,65 @@
+Activate your account
+
+You will need to activate your print account before you can use the Print Service.
+
+To activate your account:
+
+send a print job from a PC, or login to the online print credit service: https://printcredit.nottingham.ac.uk
+
+
+Using the MFDs
+To use the service, you will need: your University Card and print PIN, or your username and password or credit in your Print Service account: https://printcredit.nottingham.ac.uk/#account
+
+Always make sure you log out of the MFD when you have finished to keep your account secure.
+
+
+Printing
+
+A document can be sent to print from any computer room/public access PC (http://www.nottingham.ac.uk/it-services/computers/pc.aspx) and is then stored in your personal queue for up to 24 hours. You can then release it for printing from any MFD once you have logged in.
+
+
+Mobile printing
+
+To print from a personal device, you may send them to your print account via email(Send documents from your University email account to mobileprint@nottingham.ac.uk) or upload them online(Upload your document to mobile print: https://mobileprint.nottingham.ac.uk/login.cfm?dest=index.cfm&).
+
+
+Copying
+
+Items can be photocopied within the copyright restrictions displayed at the MFDs.
+
+
+Scanning
+
+Items can be scanned within the copyright restrictions displayed at the MFDs.
+
+You can scan documents at any MFD in a library or computer room and send them direct to your Home drive (Z:) or University email address so that you can easily access them online.
+
+
+Print/copy type	      Price per print
+
+Mono
+
+A4 single sided	      4.8p
+
+A4 double sided	      8.4p
+
+A3 single sided	      7.2p
+
+A3 double sided	      12.6p
+
+Colour
+
+A4 single sided	      16.8p
+ 
+A4 double sided	      29.4p
+
+A3 single sided	      25.2p
+
+A3 double sided	      44.1p
+
+Scanning
+
+Scan to Home drive (Z:) or Email	Free
+
+
+

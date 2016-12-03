@@ -1,0 +1,106 @@
+The term timetable:
+
+Week 1(Sept 26 - Sept 30): Registration
+
+Week 2(Oct 3 - Oct 7): Teaching(Autumn Semester)
+
+Week 3(Oct 10 - Oct 14): Teaching(Autumn Semester)
+
+Week 4(Oct 17 - Oct 21): Teaching(Autumn Semester)
+
+Week 5(Oct 24 - Oct 28): Teaching(Autumn Semester)
+
+Week 6(Oct 31 - Nov 4): Teaching(Autumn Semester)
+
+Week 7(Nov 7 - Nov 11): Teaching(Autumn Semester)
+
+Week 8(Nov 14 - Nov 18): Teaching(Autumn Semester)
+
+Week 9(Nov 21 - Nov 25): Teaching(Autumn Semester)
+
+Week 10(Nov 28 - Dec 2): Teaching(Autumn Semester)
+
+Week 11(Dec 5 - Dec 9): Teaching(Autumn Semester)
+
+Week 12(Dec 12 - Dec 16): Teaching(Autumn Semester)
+
+Week 13(Dec 19 - Dec 23): Christmas Vacation
+
+Week 14(Dec 26 - Dec 30): Christmas Vacation
+
+Week 15(Jan 2 - Jan 6): Vacation
+
+Week 16(Jan 9 - Jan 13): Vacation
+
+Week 17(Jan 16 - Jan 20): Assessment
+
+Week 18(Jan 23 - Jan 27): Assessment
+
+Week 19(Jan 30 - Feb 3): Teaching(Spring Semester)
+
+Week 20(Feb 6 - Feb 10): Teaching(Spring Semester)
+
+Week 21(Feb 13 - Feb 17): Teaching(Spring Semester)
+
+Week 22(Feb 20 - Feb 24): Teaching(Spring Semester)
+
+Week 23(Feb 27 - Mar 3): Teaching(Spring Semester)
+
+Week 24(Mar 6 - Mar 10): Teaching(Spring Semester)
+
+Week 25(Mar 13 - Mar 17): Teaching(Spring Semester)
+
+Week 26(Mar 20 - Mar 24): Teaching(Spring Semester)
+
+Week 27(Mar 27 - Mar 31): Teaching(Spring Semester)
+
+Week 28(Apr 3 - Apr 7): Teaching(Spring Semester)
+
+Week 29(Apr 10 - Apr 14): Easter Vacation
+
+Week 30(Apr 17 - Apr 21): Easter Vacation
+
+Week 31(Apr 24 - Apr 28): Vacation
+
+Week 32(May 1 - May 5): Vacation
+
+Week 33(May 8 - May 12): Teaching(Spring Semester)
+
+Week 34(May 15 - May 19): Teaching(Spring Semester)
+
+Week 35(May 22 - May 26): Assessment
+
+Week 36(May 29 - June 2): Assessment
+
+Week 37(Jane 5 - June 9): Assessment
+
+Week 38(Jane 12 - June 16): Teaching(Spring Semester)
+
+Week 39(Jane 19 - June 23): Teaching(Spring Semester)
+
+Week 40(June 26 - June 30): Summer
+
+Week 41(July 3 - July 7): Summer
+
+Week 42(July 10 - July 14): Summer
+
+Week 43(July 17 - July 21): Summer
+
+Week 44(July 24 - July 28): Summer
+
+Week 45(July 31 - Aug 4): Summer
+
+Week 46(Aug 7 - Aug 11): Summer
+
+Week 47(Aug 14 - Aug 18): Summer
+
+Week 48(Aug 21 - Aug 25): Re-sit Assessment
+
+Week 49(Aug 28 - Sept 1): Re-sit Assessment
+
+Week 50(Sept 4 - Sept 8): Summer
+
+Week 51(Sept 11 - Sept 15): Summer
+
+Week 52(Sept 18 - Sept 22): Summer
+
